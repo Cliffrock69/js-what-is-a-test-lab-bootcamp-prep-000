@@ -5,3 +5,4 @@ var message = ` ${name} is ${height} inches tall`
 
 module.exports = {name, height, message}
 window.word
+var a = 5,
