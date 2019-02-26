@@ -23,3 +23,4 @@ describe('what-is-a-test', () => {
 
 })
 
+var a = 5,
